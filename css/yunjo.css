@@ -787,10 +787,6 @@ header h1 {
     .yunjo_lotion_text ul li .lotion_effect_flex p:nth-child(2){
         margin-top: 0;
     }
-    /* 속성 추가 */
-    .yunjo_lotion_text>ol li {
-        display: inline;
-    }
     /* 속성값 수정 */
     .yunjo_lotion_text>ol {
         width: 41.6667vw;
